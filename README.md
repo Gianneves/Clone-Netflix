@@ -1,3 +1,3 @@
 # Clone-Netflix
-# Cult++, clone netflix baseado nas aulas da DIO.
+# Cult++, clone Netflix baseado nas aulas da DIO.
 # Utilizando CSS, Carousel JS.
